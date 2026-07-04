@@ -84,4 +84,4 @@ The generated charts are saved inside the `images/` folder.
 
 ## Author
 
-Yashwanth.J
+Umme Kullsum S
